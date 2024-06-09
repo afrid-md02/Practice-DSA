@@ -8,3 +8,10 @@
 <li>Left Rotate an array by one place</li>
 <li>Left rotate an array by D places</li>
 </ul>
+<h4>Day 2 (09-09-2024)</h4>
+<ul>
+<li>Move zeros to end</li>
+<li>Linear search</li>
+<li>Find union</li>
+<li>Max concecutive ones</li>
+</ul>
